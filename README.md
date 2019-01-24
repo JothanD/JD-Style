@@ -12,4 +12,13 @@ I used this style sheet in addition to Bootstrap before he integrate class to co
     <li>fontX - from 6 to 120</li>
     <li>uppercase</li>
     <li>lowercase</li>
+    <li>...</li>
   </ul>
+  
+## Bugs
+
+Please use the GitHub issue tracker for all bugs and feature requests. Before creating a new issue, do a quick search to see if the problem has been reported already.
+
+## Contributing
+
+Please see our guide on contributing if you're interested in getting involved.
